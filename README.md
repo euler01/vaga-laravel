@@ -44,6 +44,14 @@ Gerando chave do projeto
 php artisan key:generate 
 ```
 
+Populando banco de dados
+
+```
+php artisan migrate
+
+php artisan db:seed 
+```
+
 Iniciando servidor projeto
 
 ```
